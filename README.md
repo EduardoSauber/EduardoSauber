@@ -16,7 +16,7 @@ Aqui estão as tecnologias e ferramentas que utilizo/já utilizei no meu dia a d
 
 <h3 align="center">Linguagens de Programação</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,cs,css,html,python&perline=10">
   </a>
@@ -24,7 +24,7 @@ Aqui estão as tecnologias e ferramentas que utilizo/já utilizei no meu dia a d
 
 <h3 align="center">Softwares</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,git,pycharm,robloxstudio,unity,vscode&perline=10">
   </a>
@@ -32,7 +32,7 @@ Aqui estão as tecnologias e ferramentas que utilizo/já utilizei no meu dia a d
 
 <h3 align="center">Sistemas Operacionais</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows&perline=10">
   </a>
@@ -41,9 +41,7 @@ Aqui estão as tecnologias e ferramentas que utilizo/já utilizei no meu dia a d
 ---
 <h1 align="center">Estatísticas GitHub</h1>
 
-
 <div align="center">
-
-[![EduardoSauber's GitHub stats](https://github-stats-extended.vercel.app/api?username=EduardoSauber&include_all_commits=true&show_icons=true&theme=codeSTACKr)](https://github.com/stats-organization/github-stats-extended) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EduardoSauber&layout=donut-vertical&langs_count=5&theme=codeSTACKr)](https://github.com/stats-organization/github-stats-extended)
-
+  <img height="200" src="https://github-stats-extended.vercel.app/api?username=EduardoSauber&include_all_commits=true&show_icons=true&theme=codeSTACKr" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=EduardoSauber&compact&langs_count=4&theme=codeSTACKr" />
 </div>
